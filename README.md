@@ -1,4 +1,5 @@
 **Guitar Layout Renderer**, built with Plotly Dash, Python, html, and css.
+
 This app renders the guitar fretboard layout based on some user input css properties.
 
 *  Live app [here](https://guitarlayout.pythonanywhere.com/)
